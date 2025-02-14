@@ -1,6 +1,6 @@
 # Auswertung Bachelorarbeit Daniela Sollfrank
 
-**Hintergrund**
+**Hintergrund:**
 Das vorliegende Skript dient der Automatisierung der statistischen Tests und der Erstellung der grafischen Elemente. Sie wurden im Rahmen der Bachelorarbeit genutzt. 
 
 **Voraussetzungen:**
