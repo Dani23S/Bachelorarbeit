@@ -16,7 +16,6 @@ Das vorliegende Skript dient der Automatisierung der statistischen Tests und der
 **Fragebogen:**  
 Anbei ist der Fragebogen aufgeführt, der im Rahmen der Untersuchung genutzt wurde:
 
-
 ![1](https://github.com/user-attachments/assets/a9c74402-3d86-4a36-97de-211c48b3aa9b)
 ![2](https://github.com/user-attachments/assets/55efd3b2-5f8b-4d54-8e50-73ed0f0236f6)
 ![3](https://github.com/user-attachments/assets/ce98a46d-1a1f-4033-8b08-138372e3fb39)
